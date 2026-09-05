@@ -1,2 +1,0 @@
-# risu-reader
-risu-reader
